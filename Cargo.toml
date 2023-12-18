@@ -1,0 +1,12 @@
+[package]
+name = "suparimoto"
+version = "0.1.0"
+authors = ["ethan"]
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.26.1"
+rand = "0.8.5"
+ratatui = "0.24.0"
+rust_gpiozero = "0.1.0"
