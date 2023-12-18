@@ -5,7 +5,8 @@
   * [Libraries](#libraries-used)
   * [Description](#description)
   * [Challenges](#challenges-overcome)
-  * [Picture](#picture-of-remote)
+  * [Picture: Remote Invention](#picture-of-remote)
+  * [Picture: Pin Layout](#picture-of-connected-pins)
   * [Warning](#warning)
 
 ## Challenges Overcome
@@ -25,6 +26,9 @@
 
 ## Picture of Remote!
 ![IMG_3468](https://github.com/ethanAthompson/suparimoto-a3/assets/140981795/08e2d3f0-48c6-4368-9fa2-06d57f2e8460)
+
+## Picture of Connected Pins
+![IMG_3469](https://github.com/ethanAthompson/suparimoto-a3/assets/140981795/8fc80cca-236d-4f59-8dff-4c8caa9dbdd9)
 
 
 ## Warning!
