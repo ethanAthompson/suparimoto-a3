@@ -19,6 +19,9 @@
 > This is a simple game that can be controlled with 2 buttons
 
 
+## Guide
+> You have to eye it, and follow the pin layout, in src/pins.rs
+
 ## Libraries Used
 - [x] rust_gpiozero 0.1.0
 - [x] ratatui
